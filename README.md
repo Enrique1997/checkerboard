@@ -1,0 +1,2 @@
+# checkerboard
+magic checkerboard problem
